@@ -1,4 +1,4 @@
-Git Commands
+Most used Git Commands
 ============
 
 A list of my commonly used Git commands_
