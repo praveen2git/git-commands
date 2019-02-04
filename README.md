@@ -61,3 +61,12 @@ A list of my commonly used Git commands_
 | `git log` | View changes |
 | `git log --summary` | View changes (detailed) |
 | `git diff [source branch] [target branch}` | Preview changes before merging |
+
+
+### Inspection & Comparison
+
+| Command | Description |
+| ------- | ----------- |
+| `git revert <commit_hash>` | You can revert individual commits 
+
+
