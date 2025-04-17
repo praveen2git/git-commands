@@ -61,3 +61,15 @@ A list of my commonly used Git commands_
 | `git log` | View changes |
 | `git log --summary` | View changes (detailed) |
 | `git diff [source branch] [target branch}` | Preview changes before merging |
+
+### Commit a local project to the git
+
+| Command | Description |
+| ------- | ----------- |
+| `git init` | Init Repo |
+| `git add README.md` | Read me file |
+| `git add .` | Add all files |
+| `git commit -m "first commit"` | git commit with message |
+| `git branch -M main` | Switch to main branch |
+| `git remote add origin https://github.com/[username]/[repository-name].git` | Add a remote repository |
+| `git push -u origin main` | Push changes to remote repository (and remember the branch) |
