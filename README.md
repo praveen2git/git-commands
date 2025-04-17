@@ -1,9 +1,4 @@
-Most used Git Commands
-============
-
-A list of my commonly used Git commands_
-
---
+A list of commonly used Git commands_
 
 ### Getting & Creating Projects
 
